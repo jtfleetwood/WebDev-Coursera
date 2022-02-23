@@ -1,0 +1,263 @@
+* {
+    margin-left: 0%;
+}
+
+@media (min-width:992px) {
+    .head-title {
+        color: black;
+        padding-top: 2.5%;
+        font-weight: bolder;
+        text-align: center;
+        font-size: 200%;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        width: 100%;
+    }
+    
+    .col3-desktop {
+        background-color: gray;
+        size: relative;
+        width: 20%;
+        float: left;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 10%;
+        border: 3px solid black;
+    }
+    
+    .container {
+        margin-top: 2.5%;
+        width: 100%;
+        size: relative;
+    }
+    
+    .food-title-Chicken {
+        margin-left: 69.5%;
+        margin-right: 15px;
+        width: 30%;
+        background-color: lightcoral;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: vw;
+    }
+    
+    .food-title-Beef {
+        margin-left: 69.5%;
+        margin-right: 15px;
+        width: 30%;
+        background-color:red;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: 120%;
+        color: black;
+    }
+    
+    .food-title-Sushi {
+        margin-left: 69.5%;
+        margin-right: 15px;
+        width: 30%;
+        background-color:lightyellow;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: 120%;
+    }
+    
+    
+    
+    ul {
+        font-weight: bold;
+    }
+    
+    li {
+        font-weight: normal;
+    }
+    
+    
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .head-title {
+        color: black;
+        padding-top: 2.5%;
+        font-weight: bolder;
+        text-align: center;
+        font-size: 200%;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        width: 100%;
+    }
+    
+    .col3-tablet {
+        background-color: gray;
+        size: relative;
+        width: 35%;
+        float: left;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 10%;
+        border: 3px solid black;
+        margin-bottom: 2%;
+        
+    }
+
+    .col3-tablet-sushi {
+        margin-left: 10%;
+        margin-right: 15px;
+        width: 81%;
+        float: left;
+        background-color: gray;
+        font-weight: bold;
+        border-color: black;
+        text-align: left;
+        border-left: 3px solid black;
+        border-bottom: 3px solid black;
+        border: 3px solid black;
+        font-size: 120%;
+    }
+    
+    .container {
+        margin-top: 2.5%;
+        width: 100%;
+        size: relative;
+    }
+    
+    .food-title-Chicken {
+        margin-left: 69.5%;
+        margin-right: 15px;
+        width: 30%;
+        background-color: lightcoral;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: vw;
+    }
+    
+    .food-title-Beef {
+        margin-left: 69.5%;
+        margin-right: 15px;
+        width: 30%;
+        background-color:red;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: 120%;
+        color: black;
+    }
+    
+    .food-title-Sushi {
+        margin-left: 87%;
+        margin-right: 15px;
+        width: 12.7%;
+        background-color:lightyellow;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: 120%;
+        color: black;
+    } 
+    
+    ul {
+        font-weight: bold;
+    }
+    
+    li {
+        font-weight: normal;
+    }
+}
+
+@media (max-width:767px) {
+    .head-title {
+        color: black;
+        padding-top: 2.5%;
+        font-weight: bolder;
+        text-align: center;
+        font-size: 200%;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        width: 100%;
+    }
+    
+    .col3-phone {
+        background-color: gray;
+        size: relative;
+        width: 90%;
+        float: left;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 5%;
+        border: 3px solid black;
+        margin-bottom: 2%;
+        
+    }
+    
+    .container {
+        margin-top: 2.5%;
+        width: 100%;
+        size: relative;
+    }
+    
+    .food-title-Chicken {
+        margin-left: 69.5%;
+        margin-right: 15px;
+        width: 30%;
+        background-color: lightcoral;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: vw;
+    }
+    
+    .food-title-Beef {
+        margin-left: 69.5%;
+        margin-right: 15px;
+        width: 30%;
+        background-color:red;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: 120%;
+        color: black;
+    }
+
+    .food-title-Sushi {
+        margin-left: 69.5%;
+        margin-right: 15px;
+        width: 30%;
+        background-color: lightyellow;
+        font-weight: bold;
+        border-color: black;
+        text-align: center;
+        border-left: 2px solid black;
+        border-bottom: 2px solid black;
+        font-size: 120%;
+        color: black;
+    }
+    
+    ul {
+        font-weight: bold;
+    }
+    
+    li {
+        font-weight: normal;
+    }
+}
+
+
+
+
+
+
